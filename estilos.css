@@ -1,0 +1,16 @@
+.contenedor{
+    display: flex;
+    margin: 0%;
+    width: 80%;
+    
+}
+.izquierda{
+    width: 40%;
+    background-color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 1px;
+    padding: auto;
+}
+.derecha{
+   font-family: 'Courier New', Courier, monospace;
+}
