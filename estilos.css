@@ -1,16 +1,48 @@
 .contenedor{
     display: flex;
-    margin: 0%;
+    margin: 10%;
     width: 80%;
+    
+    
     
 }
 .izquierda{
-    width: 40%;
-    background-color: cadetblue;
-    font-family: 'Courier New', Courier, monospace;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
     margin: 1px;
     padding: auto;
+    text-align: center;
+    top: 10%;
 }
 .derecha{
-   font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contacto{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60px;
+}
+.habilidades{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20;
+    
+}
+.hobbies{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20;
+}
+.imagen{
+    border-radius: 100%;
+    background-color: rgb(247, 237, 237);
+    
+
+}
+.body{
+    width: 800px;
+    margin:0 auto;
+    border-width: solid;
+    border-right: solid;
+    border-left: solid;
+    border-width: 1px;
+    
+
 }
