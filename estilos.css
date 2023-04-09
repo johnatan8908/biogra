@@ -13,7 +13,7 @@
     padding: auto;
     text-align: center;
     top: 10%;
-    background-color: rgba(84, 87, 63, 0.342);
+    background-color: rgba(155, 158, 138, 0.342);
     border-radius: 10px;
 }
 .derecha{
@@ -42,21 +42,18 @@
 .imagen{
     border-radius: 40%;
     background-color: rgb(223, 107, 107);
-    
-
 }
+
 .body{
     width: 900px;
     margin:0 auto;
     border-width: solid;
     border-right: solid;
     border-left: solid;
-    
-    
-
 }
+
 .biografia{
-    margin-top: -13%;
-    background-color: rgb(213, 213, 247);
+    margin-top: -18%;
+    background-color: rgba(174, 177, 157, 0.342);
     border-radius: 8px;
 }
